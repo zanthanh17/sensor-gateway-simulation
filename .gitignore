@@ -1,0 +1,14 @@
+.vscode
+db/
+# Ignore the database file
+*.db
+# Ignore the log file
+*.log
+# Ignore the compiled object files
+*.o
+# Ignore the executable files
+*.out
+# Ignore the core dump files
+core
+# Ignore the backup files
+logs/
